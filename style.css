@@ -27,3 +27,16 @@ body {
 .card:hover {
   transform: scale(1.05);
 }
+a {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 12px;
+  background: #667eea;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+a:hover {
+  background: #764ba2;
+}
